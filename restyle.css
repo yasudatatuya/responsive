@@ -65,7 +65,7 @@ footer {
   height: 50px;
   background-color: #aaa;
 }
-@media screen and (max-width: 768px) {
+@media screen and (max-width:980px) {
 main{
   width: 100%;
   display: block;
